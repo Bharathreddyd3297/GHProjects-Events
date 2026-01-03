@@ -5,7 +5,7 @@ import userEvent from '@testing-library/user-event';
 import MainContent from './MainContent';
 
 // my test cases
-
+// udpated test cases
 describe('MainContent', () => {
   it('should render a button', () => {
     render(<MainContent />);
